@@ -1,0 +1,5 @@
+profile = "debug"
+
+[mysql]
+dialect = "mysql"
+url = "root:123456@tcp(localhost:3306)/menu"
